@@ -1,4 +1,4 @@
-# Integer-N Charge-Pump PLL — SkyWater 130nm CMOS
+# Integer-N Charge-Pump PLL — SkyWater 130nm PDK
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Technology](https://img.shields.io/badge/technology-SkyWater%20130nm-blue)
